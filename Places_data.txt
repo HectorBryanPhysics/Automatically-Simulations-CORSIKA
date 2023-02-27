@@ -1,0 +1,5 @@
+ 	Height  MagnetX  MagnetZ
+Yanque  483000  23.0403  -3.6439
+4000masl 400000 23.0403  -3.6439
+ 
+
