@@ -16,7 +16,7 @@ Program to do automatically simulation in CORSIKA
 
 
 
-- Descripción de las variables, para la información consulta el programa Automatic_runners.py
+------- Descripción de las variables, para la información consulta el programa Automatic_runners.py
  
 - #######################HEADER########################
 - ###----> FIRST PART OF THE PROGRAM SIMULATES USING CORSIKA FOR A RANGE OF ENERGIES.
