@@ -12,3 +12,18 @@ Program to do automatically simulation in CORSIKA
 - To run the program run the following command from the Linux terminal:
 
     source ejecutar.sh
+
+
+
+
+- Descripción de las variables, para la información consulta el programa Automatic_runners.py
+ 
+#######################HEADER########################
+###----> FIRST PART OF THE PROGRAM SIMULATES USING CORSIKA FOR A RANGE OF ENERGIES.
+###----> VARIABLES DEFINITIONS 
+###----> motherFolder => name of the folder in which the output information will be saved
+###----> nshow => number of showers per simulation
+###----> ERANGE => range of energies (array type)
+###----> PRMPAR => type of particles to simulation (array type)
+###----> places => the file contains the information about the places to be simulated.
+
