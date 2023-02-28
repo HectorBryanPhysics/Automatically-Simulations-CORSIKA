@@ -23,7 +23,7 @@ def index(places): ###FUNCION SOLO PARA LOS INDICES
 
 places = pd.read_csv("Places_data.txt", header = 0, delim_whitespace=True)
 
-PRMPAR = Particles_array = [1, 14, 402, 1407, 5626]
+PRMPAR = np.array([1, 14, 402, 1407, 5626])
 
 ERANGE = np.concatenate((np.arange(0.1, 10, 0.3),np.power(10, np.arange(1, 5+0.025, 0.025)))) 
 
