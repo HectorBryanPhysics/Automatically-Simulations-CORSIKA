@@ -3,18 +3,13 @@ Program to do automatically simulation in CORSIKA
 
 
 # IMPORTANT
-- Make sure you have installed Python 3~, root cern and c++ on your computer
-
+- Make sure you have installed Python 3~, root cern and c++ on your computer.
+- All files of this program must be in the "run" folder of the CORSIKA program. 
 - Before running this code, you must create a folder called "Simulations" in the root folder of the CORSIKA program. The information of each group of simulations will be stored in this folder.
-
 - All files should be copied to the CORSIKA "run" folder
-
 - To run the program run the following command from the Linux terminal:
 
-    source ejecutar.sh
-
-
-
+    python Automatic_runner.py
 
 ------- Description of the variables, for more information consult the program Automatic_runners.py
  
