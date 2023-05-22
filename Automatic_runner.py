@@ -138,5 +138,5 @@ def readOnly(seq):
         os.system('rm readpartExample{} readpartExample{}.cc'.format(pureID, pureID))
 
 
-#readOnly(seq)
+readOnly(seq)
     
